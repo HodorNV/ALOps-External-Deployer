@@ -22,6 +22,9 @@ Use [Install-ALOpsExternalDeployer] to install [ALOps External Deployer] service
    - Install-ALOpsExternalDeployer -ServerInstance BC210 -ListenPort 7001
 ```
 
+More information can be found at the powershell gallery
+https://www.powershellgallery.com/packages/ALOps.ExternalDeployer
+
 ## Resources
 
 **Waldos announcement of ALOps-External-Deployer**
